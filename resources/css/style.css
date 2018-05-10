@@ -5,7 +5,7 @@ body {
 
 .header {
   color: white;
-  background-image: url("../images/the-flatiron-building.png");
+  background-image: url("resources/images/the-flatiron-building.png");
   background-color: dimgray;
 }
 
@@ -43,7 +43,7 @@ p {
 }
 
 #designed {
-  background-image: url("../images/the-flatiron-building.png");
+  background-image: url("resources/images/the-flatiron-building.png");
   color: white;
   background-color: dimgray;
 }
