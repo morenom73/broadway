@@ -5,8 +5,8 @@ body {
 
 .header {
   color: white;
-  background-image: url('resources/images/the-flatiron-building.png');
-  background-color: gray;
+  background-image: url("resources/images/the-flatiron-building.png");
+  background-color: dimgray;
 }
 
 h1 {
@@ -14,13 +14,9 @@ h1 {
   font-weight: bold;
 }
 
-.headerNav{
-  font-size: 18px;
-  color: black;
-}
-
 a {
   color: white;
+  font-size: 18px;
 }
 
 h2 {
@@ -31,14 +27,33 @@ h2 {
 h3 {
   font-size: 23px;
   font-weight: bold;
+  background-image: image("resources/images/the-flatiron-building.png");
 }
 
 p {
+  font-size: 11px;
+}
+
+.content p {
+  font-size:  14px;
+}
+
+.about p {
   font-size: 14px;
 }
 
 #designed {
-  background-image: url('resources/images/the-flatiron-building.png');
+  background-image: url("/resources/images/flatiron.jpg");
   color: white;
-  background-color: gray;
+  background-color: dimgray;
+}
+
+.footer {
+  background-color: dimgray;
+  color: white;
+  text-align: left;
+}
+
+.footerNav {
+  font-size: 18px;
 }
