@@ -5,7 +5,7 @@ body {
 
 .header {
   color: white;
-  background-image: url("resources/images/the-flatiron-building.png");
+  background-image: url("../images/the-flatiron-building.png");
   background-color: dimgray;
 }
 
@@ -27,11 +27,7 @@ h2 {
 h3 {
   font-size: 23px;
   font-weight: bold;
-<<<<<<< HEAD
 
-=======
-  background-image: url("resources/images/the-flatiron-building.png");
->>>>>>> c5cf2325715f7863d13be1af561ef516f0dd85a4
 }
 
 p {
@@ -47,7 +43,7 @@ p {
 }
 
 #designed {
-  background-image: url("/resources/images/the-flatiron-building.png");
+  background-image: url("../images/the-flatiron-building.png");
   color: white;
   background-color: dimgray;
 }
